@@ -1,0 +1,51 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output dizini sonda bir eğik çizgiyle bitmiyor. Output dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  StdAfx.cpp
+  N3ShapeMgr.cpp
+  AISocket.cpp
+  ArenaHandler.cpp
+  AttackHandler.cpp
+  CharacterSelectionHandler.cpp
+  CharacterMovementHandler.cpp
+  ChatHandler.cpp
+  ConsoleInputThread.cpp
+  DatabaseThread.cpp
+  DBAgent.cpp
+  GameServerDlg.cpp
+  EventHandler.cpp
+  FriendHandler.cpp
+  GameEvent.cpp
+  GenieHandler.cpp
+  ItemHandler.cpp
+  KingSystem.cpp
+  KnightLogger.cpp
+  Knights.cpp
+  KnightsManager.cpp
+  LetterHandler.cpp
+  Kod Üretiliyor...
+  Derleniyor...
+  LoginHandler.cpp
+  LuaEngine.cpp
+  lua_bindings.cpp
+  MagicInstance.cpp
+  MagicProcess.cpp
+  main.cpp
+  Map.cpp
+  MerchantHandler.cpp
+  Npc.cpp
+  NPCHandler.cpp
+  CharacterHandler.cpp
+  PartyHandler.cpp
+  QuestHandler.cpp
+  Region.cpp
+  RentalHandler.cpp
+  LoadServerData.cpp
+  SealHandler.cpp
+  ShoppingMallHandler.cpp
+  TradeHandler.cpp
+  Unit.cpp
+  Kod Üretiliyor...
+  Derleniyor...
+  UpgradeHandler.cpp
+  User.cpp
+  Kod Üretiliyor...
+  proj-GameServer.vcxproj -> C:\Users\gokay\Desktop\ALPHA KO 1534 PROJE\Server-Files\GameServer.exe

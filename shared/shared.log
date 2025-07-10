@@ -1,0 +1,34 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output dizini sonda bir eğik çizgiyle bitmiyor. Output dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  stdafx.cpp
+  CircularBuffer.cpp
+  Condition.cpp
+  OdbcCommand.cpp
+  OdbcConnection.cpp
+  OdbcParameter.cpp
+  OdbcRecordset.cpp
+  globals.cpp
+  HardwareInformation.cpp
+  JvCryption.cpp
+  KOSocket.cpp
+  ReferenceObject.cpp
+  RWLock.cpp
+  signal_handler.cpp
+  Socket.cpp
+  SocketMgr.cpp
+  SocketOpsWin32.cpp
+  SocketWin32.cpp
+  Thread.cpp
+  tstring.cpp
+  Kod Üretiliyor...
+  crc32.c
+  lzf.c
+C:\Users\gokay\Desktop\ALPHA KO 1534 PROJE\1-Game Source\shared\lzf.c(199,12): warning C4244: 'return': '__int64' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\gokay\Desktop\ALPHA KO 1534 PROJE\1-Game Source\shared\lzf.c(75,38): warning C4244: 'başlatılıyor': '__int64' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\gokay\Desktop\ALPHA KO 1534 PROJE\1-Game Source\shared\lzf.c(295,12): warning C4244: 'return': '__int64' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  DebugUtils.cpp
+  Ini.cpp
+  SMDFile.cpp
+  TimeThread.cpp
+  Kod Üretiliyor...
+  shared.vcxproj -> C:\Users\gokay\Desktop\ALPHA KO 1534 PROJE\Server-Files\shared.lib

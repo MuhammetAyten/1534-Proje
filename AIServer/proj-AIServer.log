@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output dizini sonda bir eğik çizgiyle bitmiyor. Output dizininin düzgün değerlendirilmesi için bu eğik çizgi gerekli olduğundan bu oluşturma örneği eğik çizgiyi ekleyecek.
+  StdAfx.cpp
+  MagicProcess.cpp
+  Unit.cpp
+  GameSocket.cpp
+  main.cpp
+  MAP.cpp
+  Npc.cpp
+  NpcMagicProcess.cpp
+  NpcThread.cpp
+  Party.cpp
+  PathFind.cpp
+  RoomEvent.cpp
+  ServerDlg.cpp
+  AIUser.cpp
+  Kod Üretiliyor...
+  N3ShapeMgr.cpp
+  proj-AIServer.vcxproj -> C:\Users\gokay\Desktop\ALPHA KO 1534 PROJE\Server-Files\AIServer.exe
